@@ -7,7 +7,7 @@ Frontend • React • UI/UX • Web Animations
 
 - 🔭 Here's my [portfolio](https://comfy-raindrop-86bf69.netlify.app/)
 - 🎓 Pursuing **B.E CSE**
-- 💻 Completed internships in **Web Development @ Stack Queue** & **Java @ Codsoft**
+- 💻 Completed internships in **Web Development @ Stack Queue** 
 - 🌱 Currently learning **React, DSA, and Web Animations**
 - 🤖 Interested in building **AI-powered apps and chatbots**
 - ✨ Passionate about clean UI, smooth animations & responsive design
