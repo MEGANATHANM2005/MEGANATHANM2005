@@ -61,15 +61,15 @@ Frontend • React • UI/UX • Web Animations
 
 ### 📊 GitHub Stats
 
-![Mega's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegathanM&theme=dark&show_icons=true&hide=issues,contribs)
+![Mega's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEGANATHANM2005&theme=dark&show_icons=true&hide=issues,contribs)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MegathanM&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MEGANATHANM2005&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ### 📈 GitHub Activity
 
-[![Mega's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MegathanM&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mega's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MEGANATHANM2005&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
