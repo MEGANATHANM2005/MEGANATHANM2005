@@ -24,26 +24,30 @@ Frontend • React • UI/UX • Web Animations
 
 ### 💻 I Code In
 
-<img height="40" width="40" src="https://img.icons8.com/color/48/html-5.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/css3.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/javascript.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/react-native.png" />
-<img height="40" width="40" src="https://img.icons8.com/fluency/48/tailwind_css.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/bootstrap.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/python.png" />
-<img height="40" width="40" src="https://img.icons8.com/color/48/mysql-logo.png" />
+<p align="left">
+  <img height="40" width="40" src="https://img.icons8.com/color/48/html-5.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/css3.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/javascript.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/react-native.png" />
+  <img height="40" width="40" src="https://img.icons8.com/fluency/48/tailwind_css.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/bootstrap.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/python.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/mysql-logo.png" />
+</p>
 
 ---
 
-### 🧰 IDEs & Tools
+### 🧰 Tools & Platforms
 
-<img height="40" width="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/git.png"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img height="40" width="40" src="https://img.icons8.com/color/48/adobe-photoshop.png"/>
-<img height="40" src="https://img.icons8.com/color/480/notion--v1.png" />
-<img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<p align="left">
+  <img height="40" width="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="40" width="40" src="https://img.icons8.com/color/48/git.png"/>
+  <img height="40" width="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img height="40" width="40" src="https://img.icons8.com/color/48/adobe-photoshop.png"/>
+  <img height="40" src="https://img.icons8.com/color/480/notion--v1.png" />
+  <img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
 
 ---
 
@@ -77,4 +81,3 @@ Frontend • React • UI/UX • Web Animations
 - Improving skills in **React + UI/UX**
 
 > “Keep building, keep breaking, keep improving.” 🔥
-
