@@ -78,23 +78,20 @@
 
 ## 📊 GitHub Stats & Streak
 
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=MEGANATHANM2005&theme=radical&show_icons=true)
-  
-![Streak](https://streak-stats.demolab.com?user=MEGANATHANM2005&theme=tokyonight)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MEGANATHANM2005&theme=radical&show_icons=true" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MEGANATHANM2005&theme=tokyonight" height="170" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MEGANATHANM2005&bg_color=000000&color=00fff6&line=00ffcc&point=ffffff&area=true&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEGANATHANM2005&bg_color=000000&color=00fff6&line=00ffcc&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 ---
 
